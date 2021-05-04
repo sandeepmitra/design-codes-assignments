@@ -1,0 +1,33 @@
+header {
+  background: #1566e0;
+  padding: 1rem;
+  display: flex !important;
+  box-shadow: 1px 1px 2px #615d5d;
+}
+
+.brand {
+  color: #fff;
+  flex-grow: 1;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.topnav a {
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  text-decoration: none;
+  font-weight: 600;
+  color: #fff;
+}
+
+.topnav a:hover {
+  color: rgb(58, 70, 75);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin: 5rem;
+}
